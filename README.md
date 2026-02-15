@@ -1,2 +1,2 @@
 # dominik-kern.github.io
-Homepage of Dominik Kern (IFGT)
+Homepage about my interdisciplinary phase in Geotechnics.
