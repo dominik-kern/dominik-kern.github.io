@@ -1,2 +1,2 @@
 # dominik-kern.github.io
-Homepage about my interdisciplinary phase in Geotechnics.
+Website about my interdisciplinary phase in Geotechnics.
